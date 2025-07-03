@@ -8,7 +8,7 @@ public class sample {
 	public void sampletest() {
 		
 	
-	String input ="I love programming language";
+	String input ="I love Java programming language";
 	String[] words = input.split(" ");
 	
 	String lastWord = words[words.length-1];
