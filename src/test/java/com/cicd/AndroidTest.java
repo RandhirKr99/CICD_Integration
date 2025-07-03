@@ -24,6 +24,7 @@ public class AndroidTest {
 	
 	//project location : - D:\eclipse-workspace\CICD_Integration
    //from cmd - cd /d D:\eclipse-workspace\CICD_Integration
+	//git url = https://github.com/RandhirKr99/CICD_Integration.git
 @ Test
     public void androidLaunchTest() throws MalformedURLException, InterruptedException {
 
